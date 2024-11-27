@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Halima-Alshehhi
-- 👀 I’m interested in Data analyst 
+- 👀 I’m interested in Data analysis 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on  data analyst projects 
 - 📫 How to reach me by my linkedIN https://www.linkedin.com/in/halima-alshehhi-404786233
